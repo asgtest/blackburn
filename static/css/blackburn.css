@@ -3,10 +3,11 @@
 }
 
 body{
-    background-image: url("https://files.catbox.moe/9gokbk.svg");
+    background-image: url("https://files.catbox.moe/fs2xm2.svg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+    background-size: 100% 100%;
 }
 
 a {
