@@ -1,5 +1,6 @@
 .header {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
+    color:white
 }
 
 body{
@@ -39,8 +40,8 @@ article > footer {
   margin-top: 2em;
   padding-top: 2em;
   padding-bottom: 2em;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
+  /* border-top: 1px solid #eee; */
+  /* border-bottom: 1px solid #eee; */
 }
 
 .prev-next-post .prev {
